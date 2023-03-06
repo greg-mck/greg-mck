@@ -1,4 +1,6 @@
 project:
+  type: website
+  output-dir: docs
   title: "greg-mck"
 
 editor: visual
