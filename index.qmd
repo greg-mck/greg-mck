@@ -1,11 +1,30 @@
 ---
-title: "greg-mck"
+title: "Greg McKittrick"
+image: gregHeadShot.jpg
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/gregory-w-mckittrick-538764135/
+    - text: Twitter
+      href: https://twitter.com/gwmckittrick
+    - text: GitHub
+      href: https://github.com/greg-mck
+    - text: Email
+      href: mailto:gwmckittrick@gmail.com
 ---
+Hardworking and outgoing scientist with six years of microbiology and molecular biology laboratory experience, eager to make valuable contributions to forward-thinking and innovative organizations.
+---
+**Graduate Research Assistant**
+Colorado State University  
+Ft. Collins, CO Jan 2022-Current
 
-This is a Quarto website.
+**Product Strategy Scientist**
+Growcentia Inc.  
+Ft. Collins, CO Aug 2019-Dec 2021
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+**Research Associate**
+Growcentia Inc.  
+Ft. Collins, CO Mar 2017-Aug 2019
