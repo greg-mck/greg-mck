@@ -13,7 +13,7 @@ website:
 
 format:
   html:
-    theme: quartz
+    theme: slate
     css: styles.css
     toc: true
 
