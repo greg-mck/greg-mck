@@ -14,8 +14,12 @@ about:
       href: https://github.com/greg-mck
     - text: Email
       href: mailto:gwmckittrick@gmail.com
+    - text: Useful Links
+      href: https://github.com/greg-mck/my-resources
+    - text: Interesting Module
+      href: https://github.com/greg-mck/CM515-course-2024/tree/main/modules/12_Microbiome
 ---
-Hardworking and outgoing scientist with six years of microbiology and molecular biology laboratory experience, eager to make valuable contributions to forward-thinking and innovative organizations.
+Hardworking and outgoing scientist with seven years of microbiology and molecular biology laboratory experience, eager to make valuable contributions to forward-thinking and innovative organizations.
 ---
 **Laboratory Coordinator**
 Colorado State University  
